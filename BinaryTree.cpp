@@ -3,13 +3,13 @@
 * December 5, 2019
 * BinaryTree.cpp
 *
-*				  10
-*			 /         \
-*		   6              14
-*	     /   \          /     \
-*	   3       8       12       16
-*	 /  \    /   \    /  \     /   \
-*  2     4  7     9  11   13  15    18
+* 	   	     10
+*		/          \
+*	      6               14
+*	   /     \         /      \
+*	  3       8       12       16
+*	 / \     /  \    /  \     /   \
+*  	2   4   7    9  11   13  15    18
 *
 * Binary search tree created and different iterative tree traversal algorithms are used to navigate through it.
 * 4 separate values are looked up in BST and if found return the memory address it is located in.
